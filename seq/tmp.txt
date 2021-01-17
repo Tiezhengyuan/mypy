@@ -1,7 +1,1 @@
-abcef
-1234
-world
-add one line by branch a
-edit one line by branch b
-test pull request
-test for pull request by branch a
+test conflicts
