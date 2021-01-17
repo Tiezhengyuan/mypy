@@ -2,5 +2,9 @@ abcef
 1234
 world
 add one line by branch a
+<<<<<<< HEAD
 edit one line by branch b
 test pull request
+=======
+test for pull request by branch a
+>>>>>>> f1619b2... test pull request
